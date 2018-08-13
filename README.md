@@ -26,5 +26,5 @@ A new browser window will initialize and display the app. In case it doesn't, na
 
 ## Dependencies
 
-Google Maps API
-Foursquare API
+* Google Maps API
+* Foursquare API
